@@ -2,8 +2,6 @@
 
 This project base on springboot framework, it has a interface to upload file to server.
 
-![structure](img/structure.png)
-
 ## Build
 
 ### Compile
